@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Gasoek+One&family=Manrope:wght@300;400;500;600;700;800&family=Montserrat&family=Roboto:wght@500&family=Tilt+Prism&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+.app {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+min-height: 100vh;
+max-width: 100vw;
+width: 100%;
+
+}
+.pages{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  
+  max-width: 375px;
+  width: 100%;
+  
+}
